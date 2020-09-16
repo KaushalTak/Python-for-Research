@@ -209,4 +209,163 @@ print(100*np.mean(sk_predictions == outcomes))
 print(100*np.mean(outcomes == my_predictions))
 
 
-
+{'52WeekChange': 0.5072191,
+ 'SandP52WeekChange': 0.13119566,
+ 'address1': 'One Microsoft Way',
+ 'algorithm': None,
+ 'annualHoldingsTurnover': None,
+ 'annualReportExpenseRatio': None,
+ 'ask': 0,
+ 'askSize': 1300,
+ 'averageDailyVolume10Day': 36636666,
+ 'averageVolume': 35006625,
+ 'averageVolume10days': 36636666,
+ 'beta': 0.893534,
+ 'beta3Year': None,
+ 'bid': 211.03,
+ 'bidSize': 800,
+ 'bookValue': 15.626,
+ 'category': None,
+ 'circulatingSupply': None,
+ 'city': 'Redmond',
+ 'companyOfficers': [],
+ 'country': 'United States',
+ 'currency': 'USD',
+ 'dateShortInterest': 1598832000,
+ 'dayHigh': 209.7799,
+ 'dayLow': 206.93,
+ 'dividendRate': 2.04,
+ 'dividendYield': 0.0098,
+ 'earningsQuarterlyGrowth': -0.151,
+ 'enterpriseToEbitda': 22.827,
+ 'enterpriseToRevenue': 10.416,
+ 'enterpriseValue': 1489646256128,
+ 'exDividendDate': 1597795200,
+ 'exchange': 'NMS',
+ 'exchangeTimezoneName': 'America/New_York',
+ 'exchangeTimezoneShortName': 'EDT',
+ 'expireDate': None,
+ 'fiftyDayAverage': 212.69771,
+ 'fiftyTwoWeekHigh': 232.86,
+ 'fiftyTwoWeekLow': 132.52,
+ 'fiveYearAverageReturn': None,
+ 'fiveYearAvgDividendYield': 1.83,
+ 'floatShares': 7455727348,
+ 'forwardEps': 7.34,
+ 'forwardPE': 28.444141,
+ 'fromCurrency': None,
+ 'fullTimeEmployees': 163000,
+ 'fundFamily': None,
+ 'fundInceptionDate': None,
+ 'gmtOffSetMilliseconds': '-14400000',
+ 'heldPercentInsiders': 0.014249999,
+ 'heldPercentInstitutions': 0.74093,
+ 'industry': 'Software—Infrastructure',
+ 'isEsgPopulated': False,
+ 'lastCapGain': None,
+ 'lastDividendValue': None,
+ 'lastFiscalYearEnd': 1593475200,
+ 'lastMarket': None,
+ 'lastSplitDate': 1045526400,
+ 'lastSplitFactor': '2:1',
+ 'legalType': None,
+ 'logo_url': 'https://logo.clearbit.com/microsoft.com',
+ 'longBusinessSummary': 'Microsoft Corporation develops, licenses, and '
+                        'supports software, services, devices, and solutions '
+                        'worldwide. Its Productivity and Business Processes '
+                        'segment offers Office, Exchange, SharePoint, '
+                        'Microsoft Teams, Office 365 Security and Compliance, '
+                        'and Skype for Business, as well as related Client '
+                        'Access Licenses (CAL); Skype, Outlook.com, and '
+                        'OneDrive; LinkedIn that includes Talent, Learning, '
+                        'Sales, and Marketing solutions, as well as premium '
+                        'subscriptions; and Dynamics 365, a set of cloud-based '
+                        'and on-premises business solutions for small and '
+                        'medium businesses, large organizations, and divisions '
+                        'of enterprises. Its Intelligent Cloud segment '
+                        'licenses SQL and Windows Servers, Visual Studio, '
+                        'System Center, and related CALs; GitHub that provides '
+                        'a collaboration platform and code hosting service for '
+                        'developers; and Azure, a cloud platform. It also '
+                        'offers support services and Microsoft consulting '
+                        'services to assist customers in developing, '
+                        'deploying, and managing Microsoft server and desktop '
+                        'solutions; and training and certification to '
+                        'developers and IT professionals on various Microsoft '
+                        'products. Its More Personal Computing segment '
+                        'provides Windows original equipment manufacturer '
+                        '(OEM) licensing and other non-volume licensing of the '
+                        'Windows operating system; Windows Commercial, such as '
+                        'volume licensing of the Windows operating system, '
+                        'Windows cloud services, and other Windows commercial '
+                        'offerings; patent licensing; Windows Internet of '
+                        'Things; and MSN advertising. It also offers Surface, '
+                        'PC accessories, PCs, tablets, gaming and '
+                        'entertainment consoles, and other intelligent '
+                        'devices; Gaming, including Xbox hardware, and Xbox '
+                        'content and services; video games and third-party '
+                        'video game royalties; and Search, including Bing and '
+                        'Microsoft advertising. It sells its products through '
+                        'OEMs, distributors, and resellers; and directly '
+                        'through digital marketplaces, online stores, and '
+                        'retail stores. The company was founded in 1975 and is '
+                        'headquartered in Redmond, Washington.',
+ 'longName': 'Microsoft Corporation',
+ 'market': 'us_market',
+ 'marketCap': 1579973869568,
+ 'maxAge': 1,
+ 'maxSupply': None,
+ 'messageBoardId': 'finmb_21835',
+ 'morningStarOverallRating': None,
+ 'morningStarRiskRating': None,
+ 'mostRecentQuarter': 1593475200,
+ 'navPrice': None,
+ 'netIncomeToCommon': 44280999936,
+ 'nextFiscalYearEnd': 1656547200,
+ 'open': 208.42,
+ 'openInterest': None,
+ 'payoutRatio': 0.3455,
+ 'pegRatio': 2.13,
+ 'phone': '425-882-8080',
+ 'previousClose': 205.41,
+ 'priceHint': 2,
+ 'priceToBook': 13.361065,
+ 'priceToSalesTrailing12Months': 11.047609,
+ 'profitMargins': 0.30962,
+ 'quoteType': 'EQUITY',
+ 'regularMarketDayHigh': 209.7799,
+ 'regularMarketDayLow': 206.93,
+ 'regularMarketOpen': 208.42,
+ 'regularMarketPreviousClose': 205.41,
+ 'regularMarketPrice': 208.42,
+ 'regularMarketVolume': 21823942,
+ 'revenueQuarterlyGrowth': None,
+ 'sector': 'Technology',
+ 'sharesOutstanding': 7567649792,
+ 'sharesPercentSharesOut': 0.0047999998,
+ 'sharesShort': 36458662,
+ 'sharesShortPreviousMonthDate': 1596153600,
+ 'sharesShortPriorMonth': 36472205,
+ 'shortName': 'Microsoft Corporation',
+ 'shortPercentOfFloat': 0.0049,
+ 'shortRatio': 1.08,
+ 'startDate': None,
+ 'state': 'WA',
+ 'strikePrice': None,
+ 'symbol': 'MSFT',
+ 'threeYearAverageReturn': None,
+ 'toCurrency': None,
+ 'totalAssets': None,
+ 'tradeable': False,
+ 'trailingAnnualDividendRate': 2.04,
+ 'trailingAnnualDividendYield': 0.009931357,
+ 'trailingEps': 5.76,
+ 'trailingPE': 36.246525,
+ 'twoHundredDayAverage': 188.24246,
+ 'volume': 21823942,
+ 'volume24Hr': None,
+ 'volumeAllCurrencies': None,
+ 'website': 'http://www.microsoft.com',
+ 'yield': None,
+ 'ytdReturn': None,
+ 'zip': '98052-6399'}
